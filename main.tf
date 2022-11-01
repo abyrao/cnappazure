@@ -15,6 +15,6 @@ provider "azurerm" {
 
 # Create a Resource Group if it doesn’t exist
 resource "azurerm_resource_group" "tfexample" {
-  name     = "yourusernameforresourcegroup"
+  name     = "abyrao"
   location = "Central US"
 }
